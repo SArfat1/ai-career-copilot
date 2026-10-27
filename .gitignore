@@ -1,0 +1,9 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+node_modules/
+.vercel/
+.DS_Store
+
+.vercel
